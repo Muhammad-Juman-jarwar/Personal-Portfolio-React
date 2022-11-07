@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Personal-Portfolio-React/static/css/main.7ecf6c89.css",
+    "main.js": "/Personal-Portfolio-React/static/js/main.74be8f5f.js",
+    "static/media/Muhammad_Juman_Resume.pdf": "/Personal-Portfolio-React/static/media/Muhammad_Juman_Resume.7eb79efd329e50f4d3f2.pdf",
+    "static/media/musicapp.png": "/Personal-Portfolio-React/static/media/musicapp.c6ced3c555d9a5ad7187.png",
+    "static/media/hoc.png": "/Personal-Portfolio-React/static/media/hoc.1c040ce3dd1dfcbc8e3b.png",
+    "static/media/sidebar.png": "/Personal-Portfolio-React/static/media/sidebar.d6db4e8d0fbe8ac35e5d.png",
+    "static/media/boy.png": "/Personal-Portfolio-React/static/media/boy.171bbbb14e5a1f292aaf.png",
+    "static/media/ecommerce.png": "/Personal-Portfolio-React/static/media/ecommerce.7203c372ada5120b9217.png",
+    "static/media/profile1.png": "/Personal-Portfolio-React/static/media/profile1.f9fdfc286dcbff9b49e2.png",
+    "static/media/glassesimoji.png": "/Personal-Portfolio-React/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/heartemoji.png": "/Personal-Portfolio-React/static/media/heartemoji.d2ae561106b8a86b4caa.png",
+    "static/media/Facebook.png": "/Personal-Portfolio-React/static/media/Facebook.9259791968aa3f1f092e.png",
+    "static/media/thumbup.png": "/Personal-Portfolio-React/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Personal-Portfolio-React/static/media/humble.bdd61ca8824e8bceba76.png",
+    "static/media/wave.png": "/Personal-Portfolio-React/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Personal-Portfolio-React/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Personal-Portfolio-React/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Personal-Portfolio-React/static/media/glasses.6aebbd0f7de50166fffb.png",
+    "static/media/Stars.png": "/Personal-Portfolio-React/static/media/Stars.d3c6cb8c63d17932562b.png",
+    "index.html": "/Personal-Portfolio-React/index.html",
+    "main.7ecf6c89.css.map": "/Personal-Portfolio-React/static/css/main.7ecf6c89.css.map",
+    "main.74be8f5f.js.map": "/Personal-Portfolio-React/static/js/main.74be8f5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ecf6c89.css",
+    "static/js/main.74be8f5f.js"
+  ]
+}
